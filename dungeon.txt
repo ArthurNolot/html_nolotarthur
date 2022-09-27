@@ -1,0 +1,54 @@
+dungeon.txt
+Dungeon 1
+justify-end
+
+Dungeon 2
+Justify-center
+
+Dungeon 3
+Justify-around
+
+Dungeon 4
+Justify-between
+
+Dungeon 5
+Items-center
+
+Dungeon 6
+Justify-center Items-center
+
+Dungeon 7
+justify-around items-end
+
+Dungeon 8
+flex-row-reverse
+
+Dungeon 9
+flex-col
+
+Dungeon 10
+flex-col-reverse justify-center items-end
+
+Dungeon 11
+order-last
+
+Dungeon 12
+order-first
+
+Dungeon 13
+self-center
+
+Dungeon 14
+self-end order-last
+
+Dungeon 15
+flex-wrap
+
+Dungeon 16
+flex-wrap-reverse justify-end
+
+Dungeon 17
+content-between
+
+Dungeon 18
+flex-wrap-reverse content-center justify-center 
